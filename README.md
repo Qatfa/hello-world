@@ -1,2 +1,4 @@
 # hello-world
-untuk belajar
+nama fadhil
+umur 21
+tinggal di jakarta selatan 
